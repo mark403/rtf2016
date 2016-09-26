@@ -1,0 +1,7 @@
+1. informatikai rendszer leírása, jelenlegi helyzet
+2. cél <- a megrendelõ kérése *
+3. környezeti feltételek (szabályozások, törvények, pályázati hatóság), befolyásoló tényezõk
+4. jelenlegi folyamatok
+5. elképzelt, megvalósítandó folyamatok *
+6. követelménylista *
+*- fontos pontok!
